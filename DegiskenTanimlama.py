@@ -1,3 +1,4 @@
+# Farklı Veri Tiplerinde Değişken Tanımlama ve Veri Tipi Dönüştürme
 _musteriAdi = "Turan"
 _musteriSoyadi = "Kılıç"
 _musteriAdSoyad = _musteriAdi + " " + _musteriSoyadi
